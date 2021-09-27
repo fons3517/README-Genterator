@@ -119,7 +119,7 @@ If you have any questions feel free to reachout
 ${response.email}
 
 ###### Screencastify link
-![Screencastify video](https://watch.screencastify.com/v/AJRrLNFB3K28Qg7dXafI)
+[Screencastify video](https://watch.screencastify.com/v/AJRrLNFB3K28Qg7dXafI)
 
  `
   
