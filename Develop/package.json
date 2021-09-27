@@ -1,0 +1,23 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "README.md command-line Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfonso Robles",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fons3517/README-Genterator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fons3517/README-Genterator/issues"
+  },
+  "homepage": "https://github.com/fons3517/README-Genterator#readme",
+  "devDependencies": {}
+}
