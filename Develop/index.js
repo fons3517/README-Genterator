@@ -85,7 +85,6 @@ ${response.contributors}
 
 ### Table of Contents:
 * [Installation](#installation)
-* [Developer Profile](#userName)
 * [Usage](#usage)
 * [Acknowledgements](#credits)
 * [License](#license)
