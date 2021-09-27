@@ -4,7 +4,7 @@ README Generator
 
 
 ## Description:
-node.js file with npm inquirer
+node.js file with npm inquirer installed
 
 ### Contributors:
 Alfonso Robles
@@ -16,6 +16,8 @@ Alfonso Robles
 * [License](#license)
 * [Testing](#testing)
 * [Questions](#questions)
+* [ScreenCastify Video](#screenCastify)
+
 #### Installation:
 npm i
 
@@ -43,6 +45,6 @@ If you have any questions feel free to reachout
 fons3517@gmail.com
 
 ###### Screencastify link
-![Screencastify video](https://watch.screencastify.com/v/AJRrLNFB3K28Qg7dXafI)
+[Screencastify video](https://watch.screencastify.com/v/77Rh8qs7dEOr3riFVBp3)
 
  
