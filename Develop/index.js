@@ -109,7 +109,7 @@ ${response.credits}
 
 ###### License
 ${response.license}
-![Github Licemse](#(https://img.shields.io/badge/license-${response.license}-blue.svg))
+![Github License](https://img.shields.io/badge/license-${response.license}-blue.svg)
 
 
 ###### Testing
