@@ -20,8 +20,8 @@ function init() {
         },
         {
             type: 'input',
-            message: 'Author',
-            name: 'author',
+            message: 'Contributors',
+            name: 'contributors',
 
         },
         {
@@ -36,10 +36,15 @@ function init() {
             name: 'userName',
 
         },
-        
         {
             type: 'input',
             message: 'Usage',
+            name: 'usage',
+
+        },
+        {
+            type: 'input',
+            message: 'Acknowledgements',
             name: 'credits',
 
         },
@@ -58,7 +63,12 @@ function init() {
             name: 'testing',
 
         },
+        {
+            type: 'input',
+            message: 'Email address',
+            name: 'email',
 
+        },
 
     ])
         .then((response) => {
@@ -71,37 +81,41 @@ ${response.projectTitle}
 ## Description:
 ${response.description}
 
+### Contributors
+${response.contributors}
 
 ### Table of Contents
 * [Installation](#installation)
-
+* [Developer Profile](#userName)
+* [Usage](#usage)
+* [Acknowledgements](#credits)
+* [License](#license)
 * [Testing](#testing)
+* [Questions](#questions)
 
-### Installation
+#### Installation
 ${response.installation}
-
-#### Usage
-${response.usage}
-
-#### Acknowledgements
-${response.credits}
-
 
 ##### Developer Profile
 [Github Profile](https://github.com/${response.userName})
 
+##### Usage
+${response.usage}
+
+###### Acknowledgements
+${response.credits}
 
 
-##### License
+###### License
 ${response.license}
 ![Github Licemse](https://img.shields.io/badge/license-${response.license}-blue.svg)
 
 
-##### Testing
+###### Testing
 ${response.testing}
 
 
-##### Contact 
+###### Questions 
 If you have any questions feel free to reachout
 ${response.email}
 
@@ -113,9 +127,6 @@ ${response.email}
             )
             console.log(readMeFile)
 });
-
-
-
 
 }
 
