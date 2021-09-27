@@ -72,19 +72,18 @@ function init() {
 
     ])
         .then((response) => {
-
             const readMeFile = `
-# Project Title::
+# Project Title:
 ${response.projectTitle}
 
 
 ## Description:
 ${response.description}
 
-### Contributors
+### Contributors:
 ${response.contributors}
 
-### Table of Contents
+### Table of Contents:
 * [Installation](#installation)
 * [Developer Profile](#userName)
 * [Usage](#usage)
@@ -94,34 +93,34 @@ ${response.contributors}
 * [Questions](#questions)
 * [ScreenCastify Video](#screenCastify)
 
-#### Installation
+#### Installation:
 ${response.installation}
 
-##### Developer Profile
+##### Developer Profile:
 [Github Profile](https://github.com/${response.userName})
 
-##### Usage
+##### Usage:
 ${response.usage}
 
-###### Acknowledgements
+###### Acknowledgements:
 ${response.credits}
 
 
-###### License
+###### License:
 ${response.license}
 ![Github License](https://img.shields.io/badge/license-${response.license}-blue.svg)
 
 
-###### Testing
+###### Testing:
 ${response.testing}
 
 
-###### Questions 
+###### Questions: 
 If you have any questions feel free to reachout
 ${response.email}
 
 ###### Screencastify link
-![Screencastify video]()
+[Screencastify video](https://watch.screencastify.com/v/AJRrLNFB3K28Qg7dXafI)
 
  `
   

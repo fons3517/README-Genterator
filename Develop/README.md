@@ -4,7 +4,7 @@ README Generator
 
 
 ## Description:
-node.js with inquirer package
+node.js file with npm package inquirer
 
 ### Contributors
 Alfonso Robles
@@ -26,19 +26,19 @@ npm i
 [Github Profile](https://github.com/fons3517)
 
 ##### Usage
-freee
+Free
 
 ###### Acknowledgements
-[Req-Resp](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[Request-Response/ Professional-Readme- Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 
 ###### License
 MIT
-![Github License]((https://img.shields.io/badge/license-MIT-blue.svg)
+![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ###### Testing
-manual
+Manual
 
 
 ###### Questions 
