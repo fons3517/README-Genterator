@@ -120,6 +120,11 @@ ${response.email}
 
 ###### Screencastify link
 [Screencastify video](https://watch.screencastify.com/v/SoSIRRFkQbMfPKG7tGTi)
+![README1screenshot](./README1screenshot.JPG)
+![README2screenshot](./README2.JPG)
+![README3](./README3.JPG)
+![FormattedREADME](./FormattedREADME.JPG)
+
 
  `
   

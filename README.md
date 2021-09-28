@@ -46,5 +46,10 @@ fons3517@gmail.com
 
 ###### Screencastify link
 [Screencastify video](https://watch.screencastify.com/v/SoSIRRFkQbMfPKG7tGTi)
+![README1screenshot](./Photos/README1screenshot.JPG)
+![README2screenshot](./Photos/README2.JPG)
+![README3](./Photos/README3.JPG)
+![FormattedREADME](./Photos/FormattedREADME.JPG)
+
 
  
